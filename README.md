@@ -25,7 +25,7 @@ SBE Custem Lava Texture:
 + water_still.png
 + water_still.png.mcmeta
 
-Dwarven Mines Block overlay:
+Dwarven Mines Block overlay (NEU Custem Textures):
 + cyan_stained_hardened_clay
 + dark_prismarine
 + gray_wool
@@ -33,7 +33,7 @@ Dwarven Mines Block overlay:
 + prismarine
 + prismarine_bricks
 
-Crystal Hollows Block overlay:
+Crystal Hollows Block overlay (NEU Custem Textures):
 + gemstone
 + coal_ore
 + dark_prismarine
@@ -59,3 +59,5 @@ Dark Sand:
 + dark_smooth_sandstone
 
 ```
+![grafik](https://github.com/Alea1337/Darkmode_Addon_Blocks/assets/40134808/5b725eb3-9eea-42c0-817e-675079506467)
+
