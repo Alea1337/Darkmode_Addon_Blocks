@@ -24,4 +24,38 @@ SBE Custem Lava Texture:
 + water_flow.png.mcmeta
 + water_still.png
 + water_still.png.mcmeta
+
+Dwarven Mines Block overlay:
++ cyan_stained_hardened_clay
++ dark_prismarine
++ gray_wool
++ light_blue_wool
++ prismarine
++ prismarine_bricks
+
+Crystal Hollows Block overlay:
++ gemstone
++ coal_ore
++ dark_prismarine
++ diamond_ore
++ emerald_ore
++ gold_ore
++ iron_ore
++ lapis_ore
++ light_blue_wool
++ lit_redstone_ore
++ prismarine
++ prismarine_bricks
++ redstone_ore
++ stone
+
+Dark Sand:
++ dark_double_sandstone_slab
++ dark_sand
++ dark_sandstone_bottom
++ dark_sandstone_carved
++ dark_sandstone_normal
++ dark_sandstone_top
++ dark_smooth_sandstone
+
 ```
