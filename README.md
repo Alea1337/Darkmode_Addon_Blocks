@@ -1,4 +1,6 @@
 # Darkmode_Addon_Blocks
+![grafik](https://github.com/Alea1337/Darkmode_Addon_Blocks/assets/40134808/929d29b0-a45e-427d-b1f3-ad9a7f21f313)
+
 ```diff
 Change of the Vanillia Block Texture´s to the newer version of Mincraft and used the Deepslate version of it:
 + coal_ore.png
